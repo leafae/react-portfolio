@@ -14,7 +14,7 @@
     "source": "https://github.com/leafae/pokemon-search"
   },
   {
-    "title": "To Do List",
+    "title": "To-Do List",
     "imageSrc": "projects/todolist.png",
     "description": "A simple To-Do List app that allows users to add and delete tasks. Features dark mode toggle. Uses local storage to store the user's mode preference and inputted tasks.",
     "demo": "https://zihan-to-do-list.netlify.app/",
