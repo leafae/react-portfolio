@@ -4,7 +4,7 @@
     "imageSrc": "projects/portfolio.png",
     "description": "A personal website to learn more about me, featuring demos and source code links for each project. Built using CSS Modules to ensure scoped styling, creating a modular, maintainable, and scalable design.",
     "demo": "https://zhyap-portfolio.netlify.app/",
-    "source": "https://www.github.com"
+    "source": "https://github.com/leafae/react-portfolio"
   },
   {
     "title": "Pokémon Search",
