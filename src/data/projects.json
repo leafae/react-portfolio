@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Personal Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "A personal website to learn more about me, featuring demos and source code links for each project. Built using CSS Modules to ensure scoped styling, creating a modular, maintainable, and scalable design.",
+    "demo": "https://zhyap-portfolio.netlify.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Pokémon Search",
+    "imageSrc": "projects/pokemon.png",
+    "description": "Interactive Pokémon search app to look up any Pokémon by its name, showing ID, name, type(s) and sprite images for both regular and shiny versions. Fetches data from PokéAPI based on user input.",
+    "demo": "https://zihan-pokemon-search.netlify.app/",
+    "source": "https://github.com/leafae/pokemon-search"
+  },
+  {
+    "title": "To Do List",
+    "imageSrc": "projects/todolist.png",
+    "description": "A simple To-Do List app that allows users to add and delete tasks. Features dark mode toggle. Uses local storage to store the user's mode preference and inputted tasks.",
+    "demo": "https://zihan-to-do-list.netlify.app/",
+    "source": "https://github.com/leafae/to-do-list"
+  }
+]
