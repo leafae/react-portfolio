@@ -7,6 +7,14 @@
     "source": "https://github.com/leafae/react-portfolio"
   },
   {
+    "title": "Expense Tracker",
+    "imageSrc": "projects/expensetracker.png",
+    "description": "A simple and responsive expense tracker website. The app performs full CRUD operations and integrates with MockAPI, a RESTful API service, for simultaing real-world backend functionality.",
+    "demo": "https://zihan-expense-tracker.netlify.app/",
+    "source": "https://github.com/leafae/expense-tracker"
+  },
+
+  {
     "title": "Pokémon Search",
     "imageSrc": "projects/pokemon.png",
     "description": "Interactive Pokémon search app to look up any Pokémon by its name, showing ID, name, type(s) and sprite images for both regular and shiny versions. Fetches data from PokéAPI based on user input.",
